@@ -1,6 +1,10 @@
 h1 {
   color: rgb(92, 50, 132);
+  text-align: center;
 }
 body {
   background-color: rgb(173, 162, 186);
+}
+footer {
+  text-align: center;
 }
